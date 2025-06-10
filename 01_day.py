@@ -1,6 +1,6 @@
 # Reto #1
 #Variables y Tipos de Datos
-# Enunciado: Crea un programa que calcule el IMC (Índice de Masa Corporal) del usuario.
+# Crea un programa que calcule el IMC (Índice de Masa Corporal) del usuario.
 
 # Fórmula del IMC: peso (kg) / altura (m)²
 # - Pide al usuario su peso (en kg) y su altura (en metros).
